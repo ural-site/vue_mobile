@@ -5,4 +5,3 @@ var study = new Vue({
     text: "Happiness makes up in height what it lacks in length."
   }
 });
-
